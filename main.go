@@ -1,2 +1,4 @@
-ifunc main(){
+package main
+
+func main(){
 }
